@@ -1,5 +1,11 @@
 # 🧠 is-one-one ?
 
+![Build Status](https://github.com/itsdakshjain/is-one-one/actions/workflows/verify.yml/badge.svg)
+![Python Version](https://img.shields.io/badge/python-3.10-blue.svg)
+![License](https://img.shields.io/badge/license-MIT-green.svg)
+![Last Commit](https://img.shields.io/github/last-commit/itsdakshjain/is-one-one?style=flat&color=blue)
+
+
 A wonderfully overengineered Python project that explores every possible way to prove, confirm, or spiritually deduce whether **1 is actually 1**.
 
 ### Why though?
@@ -70,6 +76,14 @@ A huge thanks to the legends who decided to waste their CPU cycles on this:
 
 * **Your Name Could Be Here!** (Just open a PR)
 
+
+
+## The "Serious" Engineering Side
+While this repo is chaotic, the infrastructure behind it is production-grade. I'm using this as a study in **DevOps and Software Reliability**:
+
+*   **Automated CI Pipeline:** Every Pull Request is automatically vetted by a GitHub Actions runner on Ubuntu.
+*   **Regression Testing:** A dedicated `test_core.py` suite ensures that new "chaos" doesn't accidentally break the fundamental proof of 1.
+*   **Branch Management:** Utilizing a professional Issue-to-PR workflow to manage community contributions.
 ---
 
 ## Support the "Research"

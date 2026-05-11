@@ -1,5 +1,5 @@
 ---
-name: 🐛 Bug Report
+name:   Bug Report
 about: Report a mathematical anomaly where 1 may not be behaving like 1
 title: "bug: "
 labels: ["bug"]

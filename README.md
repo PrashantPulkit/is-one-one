@@ -92,4 +92,4 @@ If this project gave you brain rot:
 * **Follow** me for more overengineered nonsense.
 * **Share** it with a friend who writes "too much code."
 
-**Made with ❤️ and ☕ by [itsdakshjain](https://github.com/itsdakshjain)**
+**Made with ❤️ and ☕ by [itsdakshjain](https://github.com/itsdakshjain)**   

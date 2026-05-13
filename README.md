@@ -47,6 +47,10 @@ def is_one_using_quantum_mechanics():
 ```
 Please **do not** write smart or clean code. We don’t do that here.
 
+## Documentation
+
+Looking for a specific way to prove 1 is 1? Check out our [Methods Directory](docs/METHODS.md) for a full list of available functions, their logic, and usage examples.
+
 ## How to run it 
 
 ``` 

@@ -13,7 +13,7 @@ is_one() # Returns True
 ```
 
 #### `is_one_unicode_distance()`
-Calculates the distance between the Unicode characters 'a' and 'b'.
+Verifies that the Unicode distance between 'a' and 'b' is exactly 1.
 ```python
 from is_one_one import is_one_unicode_distance
 
@@ -37,7 +37,7 @@ is_one_using_interdimensional_tax_fraud() # Returns True
 ```
 
 #### `is_one_using_binary()`
-Checks if the binary representation of "1" is equal to 1.
+Parses the binary string '1' using base-2 logic to verify it equals 1.
 ```python
 from is_one_one import is_one_using_binary
 

@@ -45,6 +45,9 @@ def is_one_using_interdimensional_tax_fraud():
 
     return abs(math.cos(0)) == 1
 
+def is_one_using_binary():
+    return int("1", 2) == 1
+
 def is_one_under_extreme_pressure():
     # Hide the number 1 inside 50 layers of dictionaries
     vault = {"val": 1}
@@ -72,6 +75,8 @@ def is_one_just_to_be_sure():
         is_one(),
         is_one_unicode_distance(),
         is_one_using_time_travel(),
+        is_one_using_interdimensional_tax_fraud(),# 👈 added here also (extra chaos 😄)
+        is_one_using_binary(),
         is_one_using_interdimensional_tax_fraud(),
         is_one_using_roman_numerals(), # 👈 added here also (extra chaos 😄)
         is_one_under_extreme_pressure(), # New chaos added here
@@ -87,10 +92,10 @@ def main():
         is_one_just_to_be_sure,
         is_one_using_time_travel, 
         is_one_using_interdimensional_tax_fraud,  # 👈 IMPORTANT
+        is_one_using_binary,
         is_one_using_roman_numerals,
         is_one_using_interdimensional_tax_fraud,
         is_one_under_extreme_pressure, # 👈 The Vault
-
     ]
   
     print("🧠 Running overengineered checks to see if 1 == 1:\n")

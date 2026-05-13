@@ -24,3 +24,6 @@ To ensure your contribution meets our "Professional Chaos" standards:
 In this repo, we value **Technical Complexity** over **Simplicity**.
 - **Requirement:** Your code must be syntactically correct and pass all tests.
 - **Learning:** This is a safe space. If your CI fails, don't worry! Check the logs, learn from the error, and push a fix.
+
+## Community
+This is a safe space for learning. No question is too small. Let's build the most robust, useless software in the world together!

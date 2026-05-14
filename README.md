@@ -78,12 +78,16 @@ If you're reading this and thinking
 >“This is actually the most useless thing I’ve seen all week”  
 >...mission accomplished. I spent way too much time on this just to prove a point that didn't need proving.
 
+
 ## Contributors
 
 A huge thanks to the legends who decided to waste their CPU cycles on this:
 
-* **Your Name Could Be Here!** (Just open a PR)
+<a href="https://github.com/Py-Contributors/is-one-one/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Py-Contributors/is-one-one" />
+</a>
 
+*Click on any contributor's avatar above to visit their GitHub profile. New contributors are automatically added here!*
 
 
 ## The "Serious" Engineering Side

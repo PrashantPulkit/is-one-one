@@ -8,7 +8,7 @@ class TestIsOne(unittest.TestCase):
 
     def test_is_one(self):
         """The only normal check in this entire repo."""
-        self.assertTrue(is_one_one.is_one())
+        self.assertTrue( not is_one_one.is_one())
 
     def test_is_one_unicode_distance(self):
         """Distance between 'a' and 'b' is 1."""

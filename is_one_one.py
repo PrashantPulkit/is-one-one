@@ -84,6 +84,14 @@ def is_one_just_to_be_sure():
         is_one_under_extreme_pressure(),
     ])
 
+def is_number_one(value: int) -> bool:
+    """The one function that actually takes an argument.
+
+    Returns True if ``value`` equals 1, False otherwise.
+    Useful for negative testing — finally, a function that can return False!
+    """
+    return value == 1
+
 
 
 def main():
